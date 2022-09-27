@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guptaharsh940
 - 👀 I’m interested in Finance
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++ & Python
 - 💞️ I’m looking to collaborate on Financial Modelling
 - 📫 Reach me through my E-Mail : guptaharsh940@gmail.com
 
